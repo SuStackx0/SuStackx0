@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **development/ML**
 
-- 📫 How to reach me **gs703880@gmail.com**
+- 📫 How to reach me: **gs703880@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CHG8AnBxvtwSYaSSYJLXo6TGnxPSjhPD/view?usp=sharing](https://drive.google.com/file/d/1CHG8AnBxvtwSYaSSYJLXo6TGnxPSjhPD/view?usp=sharing)
+- 📄 Know about my experiences: [https://drive.google.com/file/d/1CHG8AnBxvtwSYaSSYJLXo6TGnxPSjhPD/view?usp=sharing](https://drive.google.com/file/d/1CHG8AnBxvtwSYaSSYJLXo6TGnxPSjhPD/view?usp=sharing)
 
 - ⚡ Fun fact **I believe every bug is just a feature in disguise – it's all about finding the right solution! 🐞**
 
