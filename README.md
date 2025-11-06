@@ -17,7 +17,7 @@
 ---
 
 ### 🚀 About Me  
-- 🌱 I’m currently learning how to build **Microservices**  
+- 🌱 I’m currently building a RAG with complete microservicing**  
 - 🤖 I love working on **Backend + AI Integration** — from FastAPI services to finetuning AI models but only in LINUX :) 
 - 💬 Ask me about **Backend AIML Engineering**  
 - 📫 Reach me at: **gs703880@gmail.com**  
