@@ -44,9 +44,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sustackx0&show_icons=true&theme=tokyonight" alt="sustackx0 stats"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sustackx0&theme=tokyonight" alt="sustackx0 streak"/>
-</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sustackx0&layout=compact&theme=tokyonight" alt="top languages"/>
 </p>
