@@ -63,4 +63,4 @@
 
 ---
 
-<p align="center">⭐️ <i>Turning backend logic into intelligent systems — one microservice at a time.</i></p>
+<p align="center">⭐️ <i>Turning backend logic into intelligent systems — one service at a time.</i></p>
