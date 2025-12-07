@@ -39,18 +39,6 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sustackx0&show_icons=true&theme=tokyonight" alt="sustackx0 stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sustackx0&layout=compact&theme=tokyonight" alt="top languages"/>
-</p>
-
----
-
 <h3 align="center">🌐 Connect with Me</h3>
 
 <p align="center">
