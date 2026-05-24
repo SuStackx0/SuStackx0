@@ -1,6 +1,6 @@
 [![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sumanth</h1>
-<h3 align="center">A passionate software enthusiast with a strong interest in building intelligent backend systems and AI-driven applications that solve real-world problems efficiently and at scale.</h3>
+<h3 align="center">A passionate software enthusiast with a strong interest in working with language models and building intelligent backend systems and AI-driven applications at scale.</h3>
 
 
 <p align="center">
@@ -16,9 +16,8 @@
 ---
 
 ### 🚀 About Me  
-- 🌱 I’m currently building a RAG with complete microservicing
-- 🤖 I love working on **Backend + AI Integration** — from FastAPI services to finetuning AI models but only in LINUX :) 
-- 💬 Ask me about **Backend AIML Engineering**  
+- 🤖 I love working on **AIML + Backend Integration** — from FastAPI services to finetuning AI models but only in LINUX :) 
+- 💬 Ask me about **AI Backend Engineering**  
 - 📫 Reach me at: **gs703880@gmail.com**  
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1CHG8AnBxvtwSYaSSYJLXo6TGnxPSjhPD/view?usp=sharing)
 
@@ -50,4 +49,4 @@
 
 ---
 
-<p align="center">⭐️ <i>Turning backend logic into intelligent systems — one service at a time.</i></p>
+<p align="center"><i>I read the paper. Then I implement it.</i></p>
